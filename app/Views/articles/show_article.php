@@ -12,17 +12,11 @@
 
 <?= view('_partials/navbar') ?>
 
-<article class="article">
-    <h1 class="post-title">
-        <?= !empty($article['title']) ? esc($article['title']) : "No Title" ?>
-    </h1>
-    <div class="post-meta">
-        Published at <?= esc($article['created_at']) ?>
-    </div>
-    <div class="post-body">
-        <?= esc($article['content']) ?>
-    </div>
-</article>
+<div class="container">
+    <h1><?= !empty($article['title']) ? esc($article['title']) : "No Title" ?></h1>
+    <p style="color:#999; font-size:13px;">Published at <?= esc($article['created_at']) ?></p>
+    <div><?= esc($article['content']) ?></div>
+</div>
 
 <?= view('_partials/footer') ?>
 

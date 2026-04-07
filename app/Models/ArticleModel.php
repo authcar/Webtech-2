@@ -11,7 +11,7 @@ class ArticleModel extends Model
     protected $allowedFields = ['title', 'slug', 'content', 'draft'];
 
     // ambil artikel yang publish
-    public function getPublished($limit = null, $offset = null)
+    public function getPublished($limit = 0, $offset = 0)
     {
         return $this->where('draft', 'false')
                     ->findAll($limit, $offset);

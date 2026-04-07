@@ -12,7 +12,7 @@
 <h1>Contact Us</h1>
 <p>Hubungi kami melalui form berikut</p>
 
-<form action="http://localhost/beritakoding/public/Page/contact" method="post">
+<form action="<?= site_url('contact') ?>" method="post">
     <?= csrf_field() ?>
 
     <div>

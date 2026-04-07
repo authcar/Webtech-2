@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controllers;
+use App\Models\FeedbackModel;
 
 class Page extends BaseController
 {
@@ -55,12 +56,25 @@ class Page extends BaseController
             'title' => 'Contact Us'
         ];
 
-        // hanya proses kalau POST
-        if ($this->request->getMethod() === 'post') {
-            $post = $this->request->getPost();
+        // Cek request POST
+        if ($this->request->getMethod() === 'POST') {
 
-            // debug (sementara)
-            dd($post);
+            $model = new \App\Models\FeedbackModel();
+
+            // Ambil input
+            $feedback = [
+                'id' => uniqid('', true),
+                'name' => $this->request->getPost('name'),
+                'email' => $this->request->getPost('email'),
+                'message' => $this->request->getPost('message'),
+            ];
+
+            // Insert ke database
+            $saved = $model->insert($feedback);
+
+            if ($saved) {
+                return view('contact_thanks');
+            }
         }
 
         return view('contact', $data);
