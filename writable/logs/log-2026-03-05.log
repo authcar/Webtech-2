@@ -1,0 +1,40 @@
+CRITICAL - 2026-03-05 01:46:04 --> ErrorException: Undefined property: App\Controllers\Latihan1::$load
+[Method: GET, Route: penjumlahan/5/7]
+in APPPATH\Controllers\latihan1.php on line 23.
+ 1 APPPATH\Controllers\latihan1.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Latihan1::$load', 'C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\latihan1.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Latihan1->penjumlahan('5', '7')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-05 01:46:04 --> ErrorException: Undefined property: App\Controllers\Latihan1::$load
+[Method: GET, Route: penjumlahan/5/7]
+in APPPATH\Controllers\latihan1.php on line 23.
+ 1 APPPATH\Controllers\latihan1.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Latihan1::$load', 'C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\latihan1.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Latihan1->penjumlahan('5', '7')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-05 01:46:06 --> ErrorException: Undefined property: App\Controllers\Latihan1::$load
+[Method: GET, Route: penjumlahan/5/7]
+in APPPATH\Controllers\latihan1.php on line 23.
+ 1 APPPATH\Controllers\latihan1.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Latihan1::$load', 'C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\latihan1.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Latihan1->penjumlahan('5', '7')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-05 01:46:06 --> ErrorException: Undefined property: App\Controllers\Latihan1::$load
+[Method: GET, Route: penjumlahan/5/7]
+in APPPATH\Controllers\latihan1.php on line 23.
+ 1 APPPATH\Controllers\latihan1.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Latihan1::$load', 'C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\latihan1.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Latihan1->penjumlahan('5', '7')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan1))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

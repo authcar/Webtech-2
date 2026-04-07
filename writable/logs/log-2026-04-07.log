@@ -1,0 +1,289 @@
+CRITICAL - 2026-04-07 05:19:55 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article/contoh-slug]
+in APPPATH\Controllers\Article.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->show('contoh-slug')
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:03 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:05 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:06 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:08 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:08 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:08 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:08 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:09 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:09 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:20:21 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:22:10 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:22:10 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:22:11 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:22:11 --> Error: Class "App\Models\ArticleModel" not found
+[Method: GET, Route: article]
+in APPPATH\Controllers\Article.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:25:03 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:25:03 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:25:04 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:28:51 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:28:52 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:28:52 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:28:52 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:28:53 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:28:53 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:29:22 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 05:30:31 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 07:14:41 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 07:14:52 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-07 07:15:05 --> TypeError: CodeIgniter\BaseModel::findAll(): Argument #2 ($offset) must be of type int, null given, called in C:\xampp82\htdocs\beritakoding\app\Models\ArticleModel.php on line 17
+[Method: GET, Route: article]
+in SYSTEMPATH\BaseModel.php on line 653.
+ 1 APPPATH\Models\ArticleModel.php(17): CodeIgniter\BaseModel->findAll(null, null)
+ 2 APPPATH\Controllers\Article.php(14): App\Models\ArticleModel->getPublished()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Article->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

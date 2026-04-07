@@ -1,0 +1,103 @@
+body {
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  background: linear-gradient(to right, #ffd1dc, #fff);
+  margin: 0;
+}
+
+/* NAVBAR */
+
+nav {
+  background: #ff6fa5;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* CONTAINER */
+
+.container {
+  width: 650px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* TITLE */
+
+h1 {
+  text-align: center;
+  color: #ff4f8b;
+}
+
+/* TABLE */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+}
+
+/* LIST */
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  padding: 6px;
+}
+
+/* FORM */
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+}
+
+textarea {
+  height: 100px;
+}
+
+/* BUTTON */
+
+button {
+  background: #ff6fa5;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff4f8b;
+}
+
+/* RESULT BOX */
+
+.result {
+  margin-top: 20px;
+  padding: 15px;
+  background: #ffe6ef;
+  border-radius: 8px;
+}
