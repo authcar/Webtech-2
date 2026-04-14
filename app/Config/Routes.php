@@ -21,3 +21,5 @@ $routes->get('/article', 'Article::index');
 
 $routes->get('article/(:segment)', 'Article::show/$1');
 $routes->match(['get','post'], 'contact', 'Page::contact');
+
+$routes->get('/admin', 'Admin::dashboard');
