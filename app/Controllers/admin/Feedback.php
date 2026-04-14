@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Controllers;
+namespace App\Controllers\Admin;
 
-class Feedback extends BaseController
+class Feedback extends \App\Controllers\BaseController
 {
     public function index()
     {
-        return view('admin/feedback');
+        return view('admin/feedback_list');
     }
 }

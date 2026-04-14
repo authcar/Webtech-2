@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Controllers;
+namespace App\Controllers\Admin;
 
-class Dashboard extends BaseController
+class Dashboard extends \App\Controllers\BaseController
 {
     public function index()
     {

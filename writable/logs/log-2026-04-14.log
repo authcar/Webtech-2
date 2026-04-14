@@ -1,0 +1,48 @@
+CRITICAL - 2026-04-14 04:37:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/post.php"
+[Method: GET, Route: admin/post]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/post.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/post', [], true)
+ 3 APPPATH\Controllers\admin\Post.php(9): view('admin/post')
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Admin\Post->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Post))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-14 04:37:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/feedback.php"
+[Method: GET, Route: admin/feedback]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/feedback.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/feedback', [], true)
+ 3 APPPATH\Controllers\admin\Feedback.php(9): view('admin/feedback')
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Admin\Feedback->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Feedback))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-14 04:39:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/post.php"
+[Method: GET, Route: admin/post]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/post.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/post', [], true)
+ 3 APPPATH\Controllers\admin\Post.php(9): view('admin/post')
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Admin\Post->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Post))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-14 04:41:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/feedback.php"
+[Method: GET, Route: admin/feedback]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/feedback.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/feedback', [], true)
+ 3 APPPATH\Controllers\admin\Feedback.php(9): view('admin/feedback')
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Admin\Feedback->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Feedback))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

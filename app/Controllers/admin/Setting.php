@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Controllers;
+namespace App\Controllers\Admin;
 
-class Setting extends BaseController
+class Setting extends \App\Controllers\BaseController
 {
     public function index()
     {

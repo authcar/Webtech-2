@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Controllers;
+namespace App\Controllers\Admin;
 
-class Post extends BaseController
+class Post extends \App\Controllers\BaseController
 {
     public function index()
     {
-        return view('admin/post');
+        return view('admin/post_list');
     }
 }
