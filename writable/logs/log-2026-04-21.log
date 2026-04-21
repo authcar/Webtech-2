@@ -1,0 +1,32 @@
+CRITICAL - 2026-04-21 04:54:51 --> ErrorException: Undefined variable $articles
+[Method: GET, Route: admin/post]
+in APPPATH\Controllers\admin\Post.php on line 32.
+ 1 APPPATH\Controllers\admin\Post.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articles', 'C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\admin\\Post.php', 32)
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once('C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\admin\\Post.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\Admin\\Post.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Post')
+ 5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Post')
+ 6 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\Admin\\Post')
+ 7 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 8 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('admin/post')
+ 9 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-21 04:59:18 --> ErrorException: Undefined variable $articles
+[Method: GET, Route: admin/post]
+in APPPATH\Controllers\admin\Post.php on line 32.
+ 1 APPPATH\Controllers\admin\Post.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $articles', 'C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\admin\\Post.php', 32)
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once('C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\admin\\Post.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp82\\htdocs\\beritakoding\\app\\Controllers\\Admin\\Post.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Post')
+ 5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Post')
+ 6 SYSTEMPATH\Router\Router.php(792): class_exists('\\App\\Controllers\\Admin\\Post')
+ 7 SYSTEMPATH\Router\Router.php(230): CodeIgniter\Router\Router->processRouteAttributes()
+ 8 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('admin/post')
+ 9 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

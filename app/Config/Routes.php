@@ -25,6 +25,9 @@ $routes->match(['get','post'], 'contact', 'Page::contact');
 $routes->get('/admin', 'Admin\Dashboard::index');
 $routes->get('/admin/dashboard', 'Admin\Dashboard::index');
 $routes->get('/admin/post', 'Admin\Post::index');
+
 $routes->get('/admin/feedback', 'Admin\Feedback::index');
+$routes->get('/admin/feedback/delete/(:segment)', 'Admin\Feedback::delete/$1');
+
 $routes->get('/admin/setting', 'Admin\Setting::index');
 

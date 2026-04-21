@@ -4,6 +4,8 @@
 <?= isset($meta['title']) ? $meta['title'] : 'beritakoding.com' ?>
 
 <style>
+
+    
 body{
     font-family: 'Segoe UI', Tahoma, sans-serif;
     background: linear-gradient(to right,#ffd1dc,#fff);
